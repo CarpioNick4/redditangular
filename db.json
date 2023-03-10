@@ -1,0 +1,26 @@
+{ 
+  "articles":[
+    {
+      "id": 1,
+      "titolo": "amazon",
+      "url": "www.amazon.com",
+      "like": 69
+     },
+     {
+      "id": 2,
+      "titolo": "ebay",
+      "url": "www.ebay.com",
+      "like": 04
+     },
+     {
+      "id": 3,
+      "titolo": "bingo",
+      "url": "www.bingo.it",
+      "like": 07
+     },
+     {
+      "id": 4,
+      "titolo": "youtube",
+      "url": "www.youtube.com",
+      "like": 99
+     }, 
